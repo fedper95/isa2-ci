@@ -1,0 +1,7 @@
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\bin\Debug\EjercicioCI.exe.config
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\bin\Debug\EjercicioCI.exe
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\bin\Debug\EjercicioCI.pdb
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\obj\Debug\EjercicioCI.csprojAssemblyReference.cache
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\obj\Debug\EjercicioCI.csproj.CoreCompileInputs.cache
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\obj\Debug\EjercicioCI.exe
+C:\Users\fedpe\source\repos\EjercicioCI\EjercicioCI\obj\Debug\EjercicioCI.pdb
